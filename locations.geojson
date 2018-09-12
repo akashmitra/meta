@@ -550,6 +550,25 @@
           53.5303000
         ]
       }
+    },
+    {
+      "id": "kolkata",
+      "properties": {
+        "location": "Kolkata, India",
+        "name": "kolkata",
+        "admins": "akashmitra",
+        "geo_longitude": 22.5726,
+        "geo_latitude": 88.3639,
+        "url": "https://github.com/beerjs/kolkata"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3461000,
+          53.5303000
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
